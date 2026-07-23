@@ -1,0 +1,3 @@
+WIDTH = 30
+HEIGHT = 15
+ROOMS = 6
